@@ -1,0 +1,27 @@
+1. Cocktail Flow - https://www.cocktailflow.com
+  - makes use of API
+  - social media sharing
+  - filtering by base spirit (ingredients)
+  - ranking by popularity
+
+2. Modern Classics - iOS app
+  - makes use of API
+  
+3. Distiller - https://www.distiller.com
+  - makes use of API
+  - page shows liquor by filtering base spirit
+  - user reviews
+  - expert reviews and recommendations
+  - users follow experts
+
+4. Highball - iOS app - https://www.studioneat.com/products/highball
+  - creates recipe card images
+  - recipe cards are sharable
+  - qr code sharing
+
+5. Lushapp.co - iOS app
+  - user creates cocktail with supplied ingredients (user can go crazy)
+  *Cool, but with health risk
+
+6. Liquor Cabinet - iOS http://www.theliquorcabinet.com/
+  - Offers suggestion depending on user's ingredients

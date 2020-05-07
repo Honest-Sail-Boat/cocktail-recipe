@@ -1,0 +1,12 @@
+Cocktail API's
+1. TheCocktailDb: https://www.thecocktaildb.com/
+2. Wikipedia List of Cocktails (Web Scraping?) - https://en.wikipedia.org/wiki/List_of_cocktails
+3. https://rapidapi.com/theapiguy/api/the-cocktail-db
+
+Libraries and Frameworks
+1. Front-end - VueJS / React
+2. CSS - Skeleton CSS
+3. Icons - Feather Icons
+4. Back-end: NodeJS / ExpressJS / SailsJS
+5. Database - MongoBD
+6. Hosting - Heroku / Netlify
