@@ -5,6 +5,7 @@ import mongoose from 'mongoose'
 
 import config from '../config/config'
 import userRoutes from './routes/user.routes'
+import cocktailRoutes from './routes/cocktail.router'
 
 const app = express()
 
@@ -19,6 +20,7 @@ app.get('/', (req, res) => {
 })
 
 app.use('/', userRoutes)
+app.use('/', cocktailRoutes)
 
 mongoose.Promise = global.Promise //use ES6 promises
 mongoose.connect(config.mongoUri)

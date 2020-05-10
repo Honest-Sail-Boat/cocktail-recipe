@@ -16,7 +16,7 @@ router.route('/api/user/:userId')
 router.route('/api/user/:userId')
     .put(userCtrl.update)
 
-//delte user with GET
+//delete user with DELETE
 router.route('/api/user/:userId')
     .delete(userCtrl.remove)
 
