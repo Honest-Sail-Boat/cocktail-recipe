@@ -1,0 +1,5 @@
+{
+    "verbose": false,
+    "watch": ["./api"],
+    "exec": "rm -rf build/ && babel ./ --out-dir build/ --ignore ./node_modules,./.babelrc,./package.json,./test --copy-files && node build/api/server.js"
+}
